@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="SpringMVCApplication:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/SpringMVCApplication_jar</output-path>
+    <root id="archive" name="SpringMVCApplication.jar">
+      <element id="artifact" artifact-name="SpringMVCApplication:war" />
+    </root>
+  </artifact>
+</component>
